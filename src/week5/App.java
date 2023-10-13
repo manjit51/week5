@@ -74,4 +74,5 @@ public class App {
 		sLogs.log("big meme");
 		sLogs.error("in space");
 	}
+	// test comment
 }
